@@ -20,3 +20,26 @@
 mkdir images
 mv *.jpg images
 mv *.jpeg images
+git add .
+git commit -m "moved all imahes file
+mkdir content 
+mv *. mv *.md content 
+git add .
+git commit -m "all md moved to content dir"
+sudo apt-get install rename
+mkdir fonts
+mv *.font fonts 
+mv *.woff fonts
+mv *.woff2 fonts 
+git add .
+git commit -m "moved all woff/woff2 to fints dir"
+mkdir scripts
+mv *.js scripts
+mv *.JS scripts
+git add .
+git commit -m "moved all JS to scripts dir"
+mkdir styles
+mv *.css styles
+mv *.CSS styles
+
+
