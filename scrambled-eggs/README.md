@@ -1,45 +1,67 @@
-1. git init
-2. it remote add origin git@github.com:rzakin/Scrambled-Eggs-.git
-3. git remote -v
-4. git checkout -b eggs
-5. ls
-6. touch README.md
-7. code README.md
-8. starting adding my steps 
-9. ctl s
-10. git commit -m "created README.md and adding my working steps in it"
-11. git push origin eggs
-12. mkdir images
-13.mv *.svg images
-14. git add .
-15.git commit -m "moved all svg to images dir"
-16. mkdir icons
-17. moved images > icons
-18.git add .
-19. it commit -m "add icons dir and moved images dir"
-mkdir images
-mv *.jpg images
-mv *.jpeg images
-git add .
-git commit -m "moved all imahes file
-mkdir content 
-mv *. mv *.md content 
-git add .
-git commit -m "all md moved to content dir"
-sudo apt-get install rename
-mkdir fonts
-mv *.font fonts 
-mv *.woff fonts
-mv *.woff2 fonts 
-git add .
-git commit -m "moved all woff/woff2 to fints dir"
-mkdir scripts
-mv *.js scripts
-mv *.JS scripts
-git add .
-git commit -m "moved all JS to scripts dir"
-mkdir styles
-mv *.css styles
-mv *.CSS styles
+.
+├── content
+│   ├── INSTRUCTIONS.md
+│   ├── POST-__21.07.2019.md.md
+│   ├── POST-__22.07.2019.md
+│   ├── post-__23.07.2019.md
+│   ├── _Post-__25.07.2019.md.md
+│   ├── _POST-__26.07.2019_.md
+│   ├── post-__27.07.2019.md
+│   ├── post-__29.07.2019.md
+│   └── post about the latest tech news -__24.07.2019.md
+├── fonts
+│   ├── adventpro-bold-webfont.woff
+│   ├── adventpro-bold-webfont.woff2
+│   ├── adventpro-extralight-webfont.woff
+│   ├── adventpro-extralight-webfont.woff2
+│   ├── adventpro-light-webfont.woff
+│   ├── adventpro-light-webfont.woff2
+│   ├── adventpro-medium-webfont.woff
+│   ├── adventpro-medium-webfont.woff2
+│   ├── adventpro-regular-webfont.woff
+│   ├── adventpro-regular-webfont.woff2
+│   ├── adventpro-semibold-webfont.woff
+│   ├── adventpro-semibold-webfont.woff2
+│   ├── adventpro-thin-webfont.woff
+│   └── adventpro-thin-webfont.woff2
+├── icons
+│   └── images
+│       ├── computer__iconfinder_Streamline-05_185024.svg
+│       ├── database__iconfinder_Streamline-77_185097.svg
+│       ├── network__iconfinder_Streamline-08_185027.svg
+│       └── server__iconfinder_storage_1370034.svg
+├── images
+│   ├── casey-horner-wVjoNpcTHxM-unsplash.jpeg
+│   ├── chang-qing-2YQoKbyGvDc-unsplash.jpg
+│   ├── FoReSt-GReeN-hd-wallpaper-129105.jpg
+│   ├── forest-light-nature-   70365.jpg
+│   ├── joey-kyber-sFLVTqNzG2I-unsplash.jpg
+│   ├── john-fowler-aaIN3y2zcMQ-unsplash.jpg
+│   ├── john-fowler-bgGr1eKlYNw-unsplash.jpg
+│   ├── milada-vigerova-pQMM63GE7fo-unsplash.jpeg
+│   ├── patrick-langwallner-Nv-rPPW_LBc-unsplash.jpg
+│   ├── raychan-eJSN4mBkhVY-unsplash.jpg
+│   ├── sarah-dorweiler-9Z1KRIfpBTM-unsplash.jpg
+│   ├── vincent-guth-uhoILl3HUZM-unsplash.jpeg
+│   └── wil-stewart-pHANr-CpbYM-unsplash.jpg
+├── index.html.html
+├── README.md
+├── scripts
+├── styles
+│   └── InDeX.CSS
+└── webfontkit-20190825-182014
+    ├── adventpro-bold-demo.html
+    ├── adventpro-extralight-demo.html
+    ├── adventpro-extralight-webfont.ttf
+    ├── adventpro-light-demo.html
+    ├── adventpro-medium-demo.html
+    ├── adventpro-regular-demo.html
+    ├── adventpro-semibold-demo.html
+    ├── adventpro-thin-demo.html
+    ├── generator_config.txt
+    ├── specimen_files
+    │   ├── grid_12-825-55-15.css
+    │   └── specimen_stylesheet.css
+    └── styles
 
-
+9 directories, 55 files
